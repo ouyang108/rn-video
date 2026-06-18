@@ -1,0 +1,73 @@
+export const videos = [
+  {
+    id: 'daily-note',
+    author: '@蓝队云-憨憨旺喵',
+    caption:
+      '很好奇，为什么网站找回密码要输入一个新的密码，新密码还不能跟旧密码一样，它是怎么判断的啊？',
+    tag: '文字',
+    uri: 'https://vd2.bdstatic.com/mda-ser9y0m3raf1xrrt/360p/h264/1779779024674427494/mda-ser9y0m3raf1xrrt.mp4?abtest=peav_l52&appver=&auth_key=1781769986-0-0-6f4e7702b5fb722090cf3d85d28bcdf9&bcevod_channel=searchbox_feed&cd=0&cr=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2186326119&model=&osver=&pd=1&pt=4&sl=682&sle=1&split=957738&vid=11234471337622285146&vt=1',
+  },
+  {
+    id: 'city',
+    author: '@reactnative',
+    caption: '滑动切换下一条视频，顶部导航和右侧操作都叠在内容上。',
+    tag: '推荐',
+    uri: 'https://vd3.bdstatic.com/mda-scqw3jz6an0pvbuu/cae_h264/1774473585600307670/mda-scqw3jz6an0pvbuu.mp4?abtest=peav_l52&appver=&auth_key=1781769986-0-0-bf59f3e686da55d6c3411182bc00b46e&bcevod_channel=searchbox_feed&cd=0&cr=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2186326119&model=&osver=&pd=1&pt=4&sl=143&sle=1&split=358844&vid=17353520533771291224&vt=1',
+  },
+  {
+    id: 'code-review',
+    author: '@前端小栈',
+    caption: '代码跑起来只是第一步，能被下一个人看懂才算真的写完。',
+    tag: '开发',
+    uri: '',
+  },
+  {
+    id: 'late-night-fix',
+    author: '@凌晨两点半',
+    caption: '线上问题最神奇的地方是，它总能精准挑中你刚准备睡觉的时候出现。',
+    tag: '日常',
+    uri: '',
+  },
+  {
+    id: 'ui-detail',
+    author: '@像素对齐患者',
+    caption: '按钮差 1px 的时候，全世界都在假装没看见，只有设计师沉默了。',
+    tag: '设计',
+    uri: '',
+  },
+  {
+    id: 'mobile-feed',
+    author: '@expo玩家',
+    caption: '移动端视频流最重要的是顺滑，手指一滑，内容就该自然接上。',
+    tag: '推荐',
+    uri: '',
+  },
+  {
+    id: 'coffee-compile',
+    author: '@咖啡续命中',
+    caption: '编译的时候泡杯咖啡，回来发现报错没变，但人变清醒了。',
+    tag: '生活',
+    uri: '',
+  },
+  {
+    id: 'debug-moment',
+    author: '@console.log',
+    caption: '删掉最后一个日志后 bug 消失了，但你完全不知道为什么。',
+    tag: '开发',
+    uri: '',
+  },
+  {
+    id: 'product-thinking',
+    author: '@产品观察员',
+    caption: '好功能不是堆出来的，是用户不用想也知道下一步该点哪里。',
+    tag: '产品',
+    uri: '',
+  },
+  {
+    id: 'weekend-build',
+    author: '@周末造物',
+    caption: '本来只是想做个小 demo，结果文件夹越来越多，想法也越来越大。',
+    tag: '创作',
+    uri: '',
+  },
+];
