@@ -30,12 +30,6 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local editor/agent state
-.idea/
-.history/
-.claude/
-.vscode/
-
 # local env files
 .env*.local
 
